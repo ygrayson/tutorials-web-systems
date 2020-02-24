@@ -2,7 +2,7 @@
 Compiled good Tutorials on Web Systems
 
 
-## Tools for Programming Languages
+## Tutorials for Programming Languages
 * Any Language
   * https://repl.it/languages
     - Visually see the results of the program
@@ -10,6 +10,7 @@ Compiled good Tutorials on Web Systems
 * Python
   * [Python Tutor](http://pythontutor.com/)
      - visualize Python memory diagram
+  * [Python Decorator](https://realpython.com/primer-on-python-decorators/)
 * HTML
   * [W3SchoolS HTML Tutorial](https://www.w3schools.com/html/)
 * CSS
