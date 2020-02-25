@@ -19,3 +19,7 @@ Compiled good Tutorials on Web Systems
   * [W3Schools SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * JavaScript
   * [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+
+## Tutorials for Conceptual Understanding
+* Sessions
+  * [Cookies and Sessions](https://web.stanford.edu/~ouster/cgi-bin/cs142-fall10/lecture.php?topic=cookie)
